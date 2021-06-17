@@ -9,7 +9,7 @@
 	<title>
 	Các phản hồi luận về: Hello world!	</title>
 	<atom:link href="http://localhost/myproject/wordpress/hello-world/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>http://nguyen-hieu-nmh.github.io/Minh-Hieu/hello-world/uncategorized/</link>
+	<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/hello-world/uncategorized/</link>
 	<description>Nguyễn Minh Hiếu</description>
 	<lastBuildDate>Thu, 17 Jun 2021 03:10:34 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Bởi: Hieu		</title>
-		<link>http://nguyen-hieu-nmh.github.io/Minh-Hieu/hello-world/uncategorized/#comment-4</link>
+		<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/hello-world/uncategorized/#comment-4</link>
 
 		<dc:creator><![CDATA[Hieu]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 03:10:34 +0000</pubDate>
-		<guid isPermaLink="false">http://nguyen-hieu-nmh.github.io/Minh-Hieu/?p=1#comment-4</guid>
+		<guid isPermaLink="false">https://nguyen-hieu-nmh.github.io/Minh-Hieu/?p=1#comment-4</guid>
 
 					<description><![CDATA[hi]]></description>
 			<content:encoded><![CDATA[<p>hi</p>
@@ -34,11 +34,11 @@
 		<item>
 		<title>
 		Bởi: A WordPress Commenter		</title>
-		<link>http://nguyen-hieu-nmh.github.io/Minh-Hieu/hello-world/uncategorized/#comment-1</link>
+		<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/hello-world/uncategorized/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 01:59:26 +0000</pubDate>
-		<guid isPermaLink="false">http://nguyen-hieu-nmh.github.io/Minh-Hieu/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://nguyen-hieu-nmh.github.io/Minh-Hieu/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

@@ -10,7 +10,7 @@
 <channel>
 	<title>Sản phẩm &#8211; Chevrolet NMH</title>
 	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
-	<link>http://nguyen-hieu-nmh.github.io/Minh-Hieu</link>
+	<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu</link>
 	<description>Nguyễn Minh Hiếu</description>
 	<lastBuildDate>Thu, 17 Jun 2021 04:22:22 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.7.1</generator>
 	<item>
 		<title>Chevrolet Corvette C8 2021</title>
-		<link>http://nguyen-hieu-nmh.github.io/Minh-Hieu/sản%20phẩm/chevrolet-corvette-c8-2021/</link>
-					<comments>http://nguyen-hieu-nmh.github.io/Minh-Hieu/sản%20phẩm/chevrolet-corvette-c8-2021/#comments</comments>
+		<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/sản%20phẩm/chevrolet-corvette-c8-2021/</link>
+					<comments>https://nguyen-hieu-nmh.github.io/Minh-Hieu/sản%20phẩm/chevrolet-corvette-c8-2021/#comments</comments>
 		
 		<dc:creator><![CDATA[Hieu]]></dc:creator>
 		<pubDate>Thu, 17 Jun 2021 04:06:08 +0000</pubDate>
-				<guid isPermaLink="false">http://nguyen-hieu-nmh.github.io/Minh-Hieu/?post_type=product&#038;p=42</guid>
+				<guid isPermaLink="false">https://nguyen-hieu-nmh.github.io/Minh-Hieu/?post_type=product&#038;p=42</guid>
 
 					<description><![CDATA[<table class="telerik-reTable-2" border="1" cellspacing="0" cellpadding="0">
 <tbody>
@@ -97,7 +97,7 @@
 </tbody>
 </table>]]></description>
 		
-					<wfw:commentRss>http://nguyen-hieu-nmh.github.io/Minh-Hieu/sản%20phẩm/chevrolet-corvette-c8-2021/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyen-hieu-nmh.github.io/Minh-Hieu/sản%20phẩm/chevrolet-corvette-c8-2021/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
