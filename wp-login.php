@@ -5,11 +5,11 @@
 	<title>Đăng nhập &lsaquo; Chevrolet NMH &#8212; WordPress</title>
 	<meta name="robots" content="noindex, nofollow, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="dashicons-css" href="https://nguyen-hieu-nmh.github.io/Minh-Hieu/wp-includes/css/dashicons.min.css?ver=5.7.1" type="text/css" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://nguyen-hieu-nmh.github.io/Minh-Hieu/wp-includes/css/buttons.min.css?ver=5.7.1" type="text/css" media="all">
-<link rel="stylesheet" id="forms-css" href="https://nguyen-hieu-nmh.github.io/Minh-Hieu/wp-admin/css/forms.min.css?ver=5.7.1" type="text/css" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://nguyen-hieu-nmh.github.io/Minh-Hieu/wp-admin/css/l10n.min.css?ver=5.7.1" type="text/css" media="all">
-<link rel="stylesheet" id="login-css" href="https://nguyen-hieu-nmh.github.io/Minh-Hieu/wp-admin/css/login.min.css?ver=5.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://nguyen-hieu-nmh.github.io/Minh-Hieu/wp-includes/css/dashicons.min.css?ver=5.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://nguyen-hieu-nmh.github.io/Minh-Hieu/wp-includes/css/buttons.min.css?ver=5.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="forms-css" href="https://nguyen-hieu-nmh.github.io/Minh-Hieu/wp-admin/css/forms.min.css?ver=5.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://nguyen-hieu-nmh.github.io/Minh-Hieu/wp-admin/css/l10n.min.css?ver=5.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="login-css" href="https://nguyen-hieu-nmh.github.io/Minh-Hieu/wp-admin/css/login.min.css?ver=5.7.2" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 		</head>
@@ -80,19 +80,19 @@ var pwsL10n = {"unknown":"Mật khẩu mạnh không xác định","short":"Rấ
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
-} )( "default", {"translation-revision-date":"2021-03-10 06:03:58+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s đã ngừng hoạt động từ phiên bản %2$s! Sử dụng thay thế bằng %3$s."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
+} )( "default", {"translation-revision-date":"2021-05-13 14:44:15+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s đã ngừng hoạt động từ phiên bản %2$s! Sử dụng thay thế bằng %3$s."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
 </script>
-<script type="text/javascript" src="https://nguyen-hieu-nmh.github.io/Minh-Hieu/wp-admin/js/password-strength-meter.min.js?ver=5.7.1" id="password-strength-meter-js"></script>
+<script type="text/javascript" src="https://nguyen-hieu-nmh.github.io/Minh-Hieu/wp-admin/js/password-strength-meter.min.js?ver=5.7.2" id="password-strength-meter-js"></script>
 <script type="text/javascript" src="https://nguyen-hieu-nmh.github.io/Minh-Hieu/wp-includes/js/underscore.min.js?ver=1.8.3" id="underscore-js"></script>
 <script type="text/javascript" id="wp-util-js-extra">
 /* <![CDATA[ */
 var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://nguyen-hieu-nmh.github.io/Minh-Hieu/wp-includes/js/wp-util.min.js?ver=5.7.1" id="wp-util-js"></script>
+<script type="text/javascript" src="https://nguyen-hieu-nmh.github.io/Minh-Hieu/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"bc2691429a"};
+var userProfileL10n = {"user_id":"0","nonce":"569059af6e"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
@@ -100,9 +100,9 @@ var userProfileL10n = {"user_id":"0","nonce":"bc2691429a"};
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
-} )( "default", {"translation-revision-date":"2021-03-10 06:03:58+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"Your new password has not been saved.":["Mật khẩu mới của bạn chưa được lưu."],"Show":["Hiển thị"],"Hide":["Ẩn đi"],"Confirm use of weak password":["Chấp nhận sử dụng mật khẩu yếu."],"Hide password":["Ẩn mật khẩu"],"Show password":["Hiện mật khẩu"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
+} )( "default", {"translation-revision-date":"2021-05-13 14:44:15+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"Your new password has not been saved.":["Mật khẩu mới của bạn chưa được lưu."],"Show":["Hiển thị"],"Hide":["Ẩn đi"],"Confirm use of weak password":["Chấp nhận sử dụng mật khẩu yếu."],"Hide password":["Ẩn mật khẩu"],"Show password":["Hiện mật khẩu"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
 </script>
-<script type="text/javascript" src="https://nguyen-hieu-nmh.github.io/Minh-Hieu/wp-admin/js/user-profile.min.js?ver=5.7.1" id="user-profile-js"></script>
+<script type="text/javascript" src="https://nguyen-hieu-nmh.github.io/Minh-Hieu/wp-admin/js/user-profile.min.js?ver=5.7.2" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
 	</html>

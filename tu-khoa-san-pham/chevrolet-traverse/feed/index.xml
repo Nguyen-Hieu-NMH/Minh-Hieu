@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chevrolet Traverse &#8211; Chevrolet NMH</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/chevrolet-traverse/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu</link>
+	<description>Nguyễn Minh Hiếu</description>
+	<lastBuildDate>Tue, 22 Jun 2021 03:05:39 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Chevrolet Traverse</title>
+		<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/sản%20phẩm/chevrolet-camaro-sao-chep/</link>
+					<comments>https://nguyen-hieu-nmh.github.io/Minh-Hieu/sản%20phẩm/chevrolet-camaro-sao-chep/#comments</comments>
+		
+		<dc:creator><![CDATA[Hieu]]></dc:creator>
+		<pubDate>Thu, 17 Jun 2021 07:24:23 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyen-hieu-nmh.github.io/Minh-Hieu/?post_type=product&#038;p=66</guid>
+
+					<description><![CDATA[<div class="widget-header">
+<h3>Thông số cơ bản</h3>
+</div>
+<table class="table table-striped table-bordered">
+<tbody>
+<tr>
+<th><strong>Kích thước tổng thể DxRxC</strong></th>
+<td>5189 x 1996 x 1795</td>
+</tr>
+<tr>
+<th><strong>Dung tích xy lanh</strong></th>
+<td>3649</td>
+</tr>
+<tr>
+<th><strong>Động cơ</strong></th>
+<td>Gas V6</td>
+</tr>
+<tr>
+<th><strong>Công suất cực đại</strong></th>
+<td>304</td>
+</tr>
+<tr>
+<th><strong>Bán kính vòng quay tối thiểu</strong></th>
+<td>6</td>
+</tr>
+<tr>
+<th><strong>Mức tiêu thụ nhiên liệu</strong></th>
+<td>11.2L/100KM</td>
+</tr>
+<tr>
+<th><strong>Xuất xứ</strong></th>
+<td>Nhập khẩu</td>
+</tr>
+<tr>
+<th><strong>Hộp số</strong></th>
+<td>AT</td>
+</tr>
+<tr>
+<th><strong>Chỗ ngồi</strong></th>
+<td>8</td>
+</tr>
+<tr>
+<th><strong>Phiên bản</strong></th>
+<td>LS</td>
+</tr>
+</tbody>
+</table>]]></description>
+		
+					<wfw:commentRss>https://nguyen-hieu-nmh.github.io/Minh-Hieu/sản%20phẩm/chevrolet-camaro-sao-chep/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
