@@ -1,3 +1,7 @@
+<br />
+<b>Warning</b>:  Attempt to read property "post_type" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\class-wp-query.php</b> on line <b>4196</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "post_type" on null in <b>C:\xampp\htdocs\myproject\wordpress\wp-includes\class-wp-query.php</b> on line <b>4196</b><br />
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -7,9 +11,9 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: Nhóm xe phổ thông	</title>
+	Các phản hồi luận về: 	</title>
 	<atom:link href="http://localhost/myproject/wordpress/s%E1%BA%A3n%20ph%E1%BA%A9m/nhom-xe-pho-thong/feed/" rel="self" type="application/rss+xml" />
-	<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/sản%20phẩm/nhom-xe-pho-thong/</link>
+	<link></link>
 	<description>Nguyễn Minh Hiếu</description>
 	<lastBuildDate>Tue, 22 Jun 2021 03:22:09 +0000</lastBuildDate>
 	<sy:updatePeriod>
