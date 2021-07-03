@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dòng xe cao cấp &#8211; Chevrolet NMH</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/dong-xe-cao-cap/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu</link>
+	<description>Nguyễn Minh Hiếu</description>
+	<lastBuildDate>Fri, 02 Jul 2021 15:36:42 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Chevrolet Camaro</title>
+		<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/cua-hang/chevrolet-camaro/</link>
+					<comments>https://nguyen-hieu-nmh.github.io/Minh-Hieu/cua-hang/chevrolet-camaro/#comments</comments>
+		
+		<dc:creator><![CDATA[Hieu]]></dc:creator>
+		<pubDate>Thu, 17 Jun 2021 06:43:37 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyen-hieu-nmh.github.io/Minh-Hieu/?post_type=product&#038;p=55</guid>
+
+					<description><![CDATA[<table class="table table-striped table-bordered">
+<tbody>
+<tr>
+<th><strong>Kích thước tổng thể DxRxC</strong></th>
+<td>4.782 x 1.897 x 1.348</td>
+</tr>
+<tr>
+<th><strong>Dung tích xy lanh</strong></th>
+<td>1998</td>
+</tr>
+<tr>
+<th><strong>Động cơ</strong></th>
+<td>Turbocharged Gas I4</td>
+</tr>
+<tr>
+<th><strong>Công suất cực đại</strong></th>
+<td>275</td>
+</tr>
+<tr>
+<th><strong>Mô-men xoắn cực đại</strong></th>
+<td>400</td>
+</tr>
+<tr>
+<th><strong>Khoảng sáng gầm</strong></th>
+<td>161</td>
+</tr>
+<tr>
+<th><strong>Bán kính vòng quay tối thiểu</strong></th>
+<td>6</td>
+</tr>
+<tr>
+<th><strong>Mức tiêu thụ nhiên liệu</strong></th>
+<td>10.23 lít/100km</td>
+</tr>
+<tr>
+<th><strong>Xuất xứ</strong></th>
+<td>Nhập khẩu</td>
+</tr>
+<tr>
+<th><strong>Hộp số</strong></th>
+<td>MT 6 cấp</td>
+</tr>
+<tr>
+<th><strong>Dung tích khoang chứa đồ (lít)</strong></th>
+<td>323</td>
+</tr>
+<tr>
+<th><strong>Chỗ ngồi</strong></th>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+&#160;]]></description>
+		
+					<wfw:commentRss>https://nguyen-hieu-nmh.github.io/Minh-Hieu/cua-hang/chevrolet-camaro/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
