@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: Hello world!	</title>
+	Comments on: Hello world!	</title>
 	<atom:link href="http://localhost/myproject/wordpress/hello-world/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/hello-world/uncategorized/</link>
 	<description>Nguyễn Minh Hiếu</description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		Bởi: Hieu		</title>
+		By: Hieu		</title>
 		<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/hello-world/uncategorized/#comment-4</link>
 
 		<dc:creator><![CDATA[Hieu]]></dc:creator>
@@ -33,7 +33,7 @@
 			</item>
 		<item>
 		<title>
-		Bởi: A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/hello-world/uncategorized/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>

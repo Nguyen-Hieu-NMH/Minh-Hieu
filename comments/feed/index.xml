@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Chevrolet NMH	</title>
+	Comments for Chevrolet NMH	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu</link>
 	<description>Nguyễn Minh Hiếu</description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		Phản hồi cho Chevrolet Colorado LT 2.5 MT 4X2 bởi Hieu		</title>
+		Comment on Chevrolet Colorado LT 2.5 MT 4X2 by Hieu		</title>
 		<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/cua-hang/chevrolet-colorado-lt-2-5-mt-4x2/#comment-12</link>
 
 		<dc:creator><![CDATA[Hieu]]></dc:creator>
@@ -43,7 +43,7 @@
 			</item>
 		<item>
 		<title>
-		Phản hồi cho Chevrolet Camaro bởi Hieu		</title>
+		Comment on Chevrolet Camaro by Hieu		</title>
 		<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/cua-hang/chevrolet-camaro/#comment-11</link>
 
 		<dc:creator><![CDATA[Hieu]]></dc:creator>
@@ -67,7 +67,7 @@
 			</item>
 		<item>
 		<title>
-		Phản hồi cho Chevrolet Traverse bởi Hieu		</title>
+		Comment on Chevrolet Traverse by Hieu		</title>
 		<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/cua-hang/chevrolet-camaro-sao-chep/#comment-10</link>
 
 		<dc:creator><![CDATA[Hieu]]></dc:creator>
@@ -91,7 +91,7 @@
 			</item>
 		<item>
 		<title>
-		Phản hồi cho Chevrolet Corvette C8 2021 bởi Hieu		</title>
+		Comment on Chevrolet Corvette C8 2021 by Hieu		</title>
 		<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/cua-hang/chevrolet-corvette-c8-2021/#comment-6</link>
 
 		<dc:creator><![CDATA[Hieu]]></dc:creator>
@@ -115,7 +115,7 @@
 			</item>
 		<item>
 		<title>
-		Phản hồi cho Kẻ hủy diệt: Thời đại Genisys bởi Hieu		</title>
+		Comment on Kẻ hủy diệt: Thời đại Genisys by Hieu		</title>
 		<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/ke-huy-diet-thoi-dai-genisys/uncategorized/#comment-5</link>
 
 		<dc:creator><![CDATA[Hieu]]></dc:creator>
@@ -129,7 +129,7 @@
 			</item>
 		<item>
 		<title>
-		Phản hồi cho Hello world! bởi Hieu		</title>
+		Comment on Hello world! by Hieu		</title>
 		<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/hello-world/uncategorized/#comment-4</link>
 
 		<dc:creator><![CDATA[Hieu]]></dc:creator>
@@ -143,7 +143,7 @@
 			</item>
 		<item>
 		<title>
-		Phản hồi cho Transformers 4: Kỷ nguyên hủy diệt bởi Hieu		</title>
+		Comment on Transformers 4: Kỷ nguyên hủy diệt by Hieu		</title>
 		<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/transformers-4-ky-nguyen-huy-diet/uncategorized/#comment-2</link>
 
 		<dc:creator><![CDATA[Hieu]]></dc:creator>
@@ -157,7 +157,7 @@
 			</item>
 		<item>
 		<title>
-		Phản hồi cho Hello world! bởi A WordPress Commenter		</title>
+		Comment on Hello world! by A WordPress Commenter		</title>
 		<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/hello-world/uncategorized/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
