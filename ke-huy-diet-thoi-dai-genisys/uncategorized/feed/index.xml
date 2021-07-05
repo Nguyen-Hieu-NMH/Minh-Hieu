@@ -1,3 +1,6 @@
+
+
+
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -7,7 +10,7 @@
 	>
 <channel>
 	<title>
-	Comments on: Kẻ hủy diệt: Thời đại Genisys	</title>
+	Các phản hồi luận về: Kẻ hủy diệt: Thời đại Genisys	</title>
 	<atom:link href="http://localhost/myproject/wordpress/ke-huy-diet-thoi-dai-genisys/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/ke-huy-diet-thoi-dai-genisys/uncategorized/</link>
 	<description>Nguyễn Minh Hiếu</description>
@@ -19,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		By: Hieu		</title>
+		Bởi: Hieu		</title>
 		<link>https://nguyen-hieu-nmh.github.io/Minh-Hieu/ke-huy-diet-thoi-dai-genisys/uncategorized/#comment-5</link>
 
 		<dc:creator><![CDATA[Hieu]]></dc:creator>
